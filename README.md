@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  VecenteEdwards.com - v4
+  vecenteportfolio.netlify.app - v4
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://VecenteEdwards.com" target="_blank">VecenteEdwards.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The fourth iteration of <a href="https://vecenteportfolio.netlify.app" target="_blank">vecenteportfolio.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:
@@ -31,7 +31,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [VecenteEdwards.com](https://VecenteEdwards.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [vecenteportfolio.netlify.app](https://vecenteportfolio.netlify.app). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -85,3 +85,4 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [Ve
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+// Change on 2018-02-27

@@ -7,7 +7,7 @@ module.exports = {
       url: 'https://github.com/VecenteEdwards',
     },
     {
-      name: 'Logo',
+      name: 'Teams',
       url: 'https://teams.live.com/v2',
     },
     {

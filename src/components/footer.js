@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/VecenteEdwards/portfolio')
+    fetch('https://api.github.com/repos/VecenteEdwards/Portfolio')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/VecenteEdwards/portfolio">
+        <a href="https://github.com/VecenteEdwards/Portfolio">
           <div>Designed &amp; Built by Vecente Edwards</div>
 
           {githubInfo.stars && githubInfo.forks && (

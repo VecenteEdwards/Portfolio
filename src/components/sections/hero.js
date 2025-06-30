@@ -66,7 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products.
+        digital experiences.<br></br>
+        Currently, I’m focused on building accessible, human-centered products.
       </p>
     </>
   );
